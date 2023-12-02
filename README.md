@@ -1,0 +1,1 @@
+A c++ implementation of a backpropagation neural network. Based on micrograd. https://www.youtube.com/watch?v=VMj-3S1tku0
